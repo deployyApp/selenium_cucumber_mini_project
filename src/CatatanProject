@@ -1,0 +1,10 @@
+- Apply Gherkin
+- Domain objects
+- POM
+- Support multiple runners
+- Supports parallel (JUnit, TestNG, CLI)
+- Uses dependency injection framework (pico-container)
+- uses API's to setup the application state
+- Capture screenshots on scenario failure
+- Supports command line execution using Maven
+- Supports CI/CD Integration
